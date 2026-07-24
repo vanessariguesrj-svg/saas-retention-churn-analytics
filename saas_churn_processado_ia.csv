@@ -1,0 +1,6 @@
+﻿cliente_id,nome_empresa,plano,mrr,dias_sem_acesso,chamados_suporte_30d,reducao_uso_pct,probabilidade_churn,nivel_risco,acao_recomendada_ia
+1,TechCorp Solutions,Enterprise,4500.0,28,8,45.0,100%,Crítico,Agendar reunião com Direção e conceder desconto na renovação.
+2,LogiFreight Logistics,Pro,1200.0,12,4,15.0,46.0%,Alto,Contato do time de CS para treinamento de equipe e suporte técnico.
+3,Fintech Innovate,Enterprise,6000.0,40,12,70.0,100%,Crítico,Agendar reunião com Direção e conceder desconto na renovação.
+4,Eduka Digital,Basic,350.0,2,0,0.0,3.0%,Baixo,Cliente saudável. Inserir em régua automatizada de upsell.
+5,Retail Master,Pro,2100.0,18,6,30.0,75.0%,Crítico,Agendar reunião com Direção e conceder desconto na renovação.
