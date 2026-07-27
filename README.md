@@ -8,3 +8,15 @@ A solução integra todo o ciclo de dados, desde a extração e tratamento em **
 ---
 
 ## 📐 Arquitetura da Solução
+# 📊 SaaS Retention & Churn Dashboard
+
+Dashboard executivo desenvolvido para análise de retenção de clientes, risco de churn e planejamento de ações preventivas.
+
+## 📌 Principais Métricas (KPIs)
+- **MRR Total:** R$ 14.150,00
+- **MRR em Risco:** R$ 13.800,00 (97,5%)
+- **Contas em Risco Crítico:** 3 Clientes
+
+## 🛠️ Tecnologias e Ferramentas
+- Python (`pandas`, `openpyxl`)
+- Microsoft Excel
